@@ -80,5 +80,5 @@ With this, we can see a third entity has made itself visible: *Contact*. From th
 
 
 ## Entity Diagram
-![Entity Diagram](Images/Entity-Cinema.drawio.png)
+![Entity Diagram](Images/Cinema.drawio.png)
 
